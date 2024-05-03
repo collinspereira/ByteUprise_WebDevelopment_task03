@@ -1,0 +1,36 @@
+.stopwatch {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+
+
+   
+button {
+    font-size: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+.stopwatch { 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    font-size: 150px; 
+    color: white; 
+    width: 100%; 
+    height: 100vh; 
+    background-color: black;
+   
+} 
+
+.layout{
+    flex-direction: row;  
+}
+.button { 
+    flex-direction: row; 
+
+#buttons { 
+    margin-top: 50px; 
+}
